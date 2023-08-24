@@ -1,0 +1,154 @@
+.container .row .calculator {
+  background-color: rgb(77, 77, 77);
+  border-radius: 15px;
+  padding: 30px 20px 30px 20px;
+  margin: 50px 0px 0px 0px;
+  box-shadow: 1px 1px 9px 1px rgb(43, 55, 0);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container .row .calculator .input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container .row .calculator .input .block {
+  width: 100%;
+  height: auto;
+}
+.container .row .calculator .input .block form {
+  margin: 0px 0px 20px 0px;
+  border: 4px rgb(62, 62, 62) solid;
+  border-radius: 5px;
+}
+.container .row .calculator .input .block form input {
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  border: 0px;
+  background-color: rgb(222, 222, 222);
+}
+.container .row .calculator .cleaned {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container .row .calculator .cleaned .block {
+  width: 100%;
+  height: auto;
+}
+.container .row .calculator .cleaned .block button {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 7px 0px 7px 0px;
+  background-color: rgb(255, 0, 0);
+  border: 4px rgb(62, 62, 62) solid;
+  border-radius: 7px;
+}
+.container .row .calculator .cleaned .block :active {
+  background-color: rgb(197, 0, 0);
+  border-radius: 7px;
+}
+.container .row .calculator .cleaned2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container .row .calculator .cleaned2 .block {
+  width: 100%;
+  height: auto;
+}
+.container .row .calculator .cleaned2 .block button {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 7px 0px 7px 0px;
+  background-color: rgb(255, 197, 4);
+  border: 4px rgb(62, 62, 62) solid;
+  border-radius: 7px;
+}
+.container .row .calculator .cleaned2 .block :active {
+  background-color: rgb(217, 167, 1);
+  color: white;
+  border-radius: 7px;
+}
+.container .row .calculator .math {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container .row .calculator .math .block {
+  width: 100%;
+  height: auto;
+}
+.container .row .calculator .math .block button {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 7px 0px 7px 0px;
+  background-color: rgb(240, 232, 0);
+  border: 4px rgb(62, 62, 62) solid;
+  border-radius: 7px;
+}
+.container .row .calculator .math .block :active {
+  background-color: rgb(223, 197, 0);
+  color: white;
+  border-radius: 7px;
+}
+.container .row .calculator .number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container .row .calculator .number .block {
+  width: 100%;
+  height: auto;
+}
+.container .row .calculator .number .block button {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 7px 0px 7px 0px;
+  background-color: rgb(220, 220, 220);
+  border: 4px rgb(62, 62, 62) solid;
+  border-radius: 7px;
+}
+.container .row .calculator .number .block :active {
+  background-color: rgb(167, 167, 167);
+  color: white;
+  border-radius: 7px;
+}
+.container .row .calculator .Math_1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container .row .calculator .Math_1 .block {
+  width: 100%;
+  height: auto;
+}
+.container .row .calculator .Math_1 .block button {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 7px 0px 7px 0px;
+  background-color: rgb(4, 129, 31);
+  border: 4px rgb(62, 62, 62) solid;
+  border-radius: 7px;
+}
+.container .row .calculator .Math_1 .block :active {
+  background-color: rgb(6, 100, 26);
+  border-radius: 7px;
+}/*# sourceMappingURL=style.css.map */
