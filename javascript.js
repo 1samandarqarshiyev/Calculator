@@ -1,9 +1,9 @@
 function myFunction(id){
-    document.calc.result.value+=id;
+    document.calc.result.value += id;
 }
 
 function clearScreen(){
-    document.calc.result.value="";
+    document.calc.result.value = "";
 }
 
 function calculate(){
